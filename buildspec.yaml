@@ -2,7 +2,6 @@ version: 0.2
 env:
   parameter-store:
     SECILL: "myparameter"
-
 phases:
   pre_build:
     commands:
