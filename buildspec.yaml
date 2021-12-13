@@ -7,7 +7,6 @@ phases:
     commands:
       - echo rogue ${SECILL}
       - aws --version
-      - echo test
   build:
     commands:
       - echo Building the Docker image...
